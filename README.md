@@ -4,7 +4,7 @@
 
 ### Software Engineer | C# · .NET · ASP.NET Core · Backend Architecture · Flutter
 
-**Building interconnected platforms across hospitality booking, dynamic e-commerce, mobile fintech, and education administration.**
+**Building interconnected systems across hospitality, commerce, fintech, education, content management, healthcare, and insurance.**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ameen-alqershi-639417438/)
 [![Email](https://img.shields.io/badge/Email-Contact-444444?logo=gmail&logoColor=white)](mailto:abo.bahr.alqershi@gmail.com)
@@ -24,7 +24,7 @@ My primary engineering stack includes **C#, .NET, ASP.NET Core, ASP.NET MVC, RES
 
 ## Selected engineering projects | Private & historical work
 
-These are **four selected examples from a wider portfolio**, not the complete body of my work. Several projects were proprietary or developed in earlier years; their full source repositories are not public. Descriptions reflect the project scope and the components I worked with. Production adoption, commercial scale, licensing, and launch dates are not claimed unless independently documented.
+The projects below are **selected examples from a wider body of independent engineering work**, not a complete project inventory. Several were developed as proprietary or historical systems; their original source is not publicly available. These descriptions focus on the engineering scope, architecture and workflows without exposing confidential implementation details or making unsupported claims about deployments, market share or certification.
 
 ### 🏨 Hajzak (حجزك) | Advanced multi-platform hospitality and reservations ecosystem
 
@@ -91,13 +91,55 @@ Related educational-system modules and project records include **institutional s
 
 *Historical/private work; this is a description of engineering scope, not an assertion of formal ministry procurement, government-wide rollout, or independently verified national adoption.*
 
+### 🧩 Advanced CMS | Dynamic website creation, design & application management
+
+**A configurable content-management and administration system designed to go well beyond basic publishing.** This historical project explored how non-developer administrators could **build, organize, customize, and manage websites and mobile-application content from a unified control environment**, rather than relying on fixed screens and hardcoded presentation.
+
+The system's scope included:
+
+- **Website and page building:** managing site structure, page content, and presentation through administrative controls.
+- **Dynamic layouts and content blocks:** configurable sections, display arrangements, and reusable content areas that could change independently of the underlying application code.
+- **Centralized web and mobile administration:** coordinating website presentation and mobile-app management within a shared administrative model.
+- **Operational content management:** tools for maintaining content, updating visible experiences, and supporting ongoing changes without redesigning the entire product.
+- **Extensible design thinking:** a CMS-oriented approach influenced by the flexibility of platforms such as WordPress, while addressing custom application needs.
+
+**Engineering focus:** configurable application architecture · content and presentation modeling · dynamic page composition · administrative workflows · web/mobile coordination.
+
+*Historical independent engineering work; the original project source is not currently public. This description does not imply a commercial WordPress affiliation or a verified deployment at WordPress scale.*
+
+### 🏥 Healthcare company management | Integrated operations, services & customer applications
+
+**An end-to-end healthcare-service software initiative spanning operational management and customer-facing digital services—not simply an informational healthcare website.** The earlier project encompassed a **central server-side system**, **customer applications and web access**, and processes used to coordinate service requests and related operations.
+
+The product scope covered:
+
+- **Centralized service administration:** a software backbone for healthcare-company operations and service-related information.
+- **Customer-facing channels:** applications and website experiences through which customers could access services and submit relevant requests.
+- **Request and order workflows:** coordinating incoming customer requests and orders with the organization's administrative processes.
+- **Locations, services and logistics:** linking service information, location-related operations, and shipment/delivery flows where relevant.
+- **System integration:** connecting the customer experience with backend processes and management interfaces across more than one application surface.
+
+**Engineering focus:** enterprise workflow design · backend and application integration · multi-channel service management · request processing · operational coordination.
+
+*Selected historical/private work documented in earlier project records. No assertion is made here about handling regulated clinical records, certified medical-device integrations, or current production scale.*
+
+### 🛡️ Insurance administration | Dedicated insurance management system
+
+**A separate insurance-management system developed for the administrative needs of a healthcare-related organization.** Unlike the customer-service and healthcare-operations platform above, this work addressed the **insurance administration domain as its own business system**, with its own operational records, information flows, and management requirements.
+
+The project involved designing software around **structured insurance-related administration**, the **organization and retrieval of records**, and the **coordination of insurance business workflows** through a dedicated system instead of treating insurance as a small add-on to a general website.
+
+**Engineering focus:** insurance-domain workflow modeling · administrative systems · structured records · business rules · information management.
+
+*Historical/private project. Specific integrations with insurers, policy issuance, claim adjudication, regulatory approvals, or production volume are not claimed without supporting evidence.*
+
 <details>
 <summary><b>Other selected engineering areas</b></summary>
 
-- Healthcare-service platforms and insurance administration.
-- Configurable content-management systems and multi-channel operational dashboards.
-- Cross-platform mobile and web products.
-- Education portals, organizational systems, and API-based integrations.
+- Cross-platform mobile and web products for organizations and commercial operations.
+- Education portals, academic administration and connected institutional workflows.
+- Monitoring/evaluation, reporting and other organization-management systems.
+- Additional business applications, APIs and digital-service integrations.
 
 These projects represent only part of a broader independent engineering history.
 

@@ -14,13 +14,17 @@
 
 ## About me
 
-I'm an independent software engineer working across **backend architecture, business systems, cross-platform mobile applications, and integrations**. My project-based experience dates back to 2017, supported by an academic background in telecommunications engineering.
+I'm an independent software engineer working across **backend architecture, business systems, cross-platform mobile applications, and integrations**. My project-based experience dates back to 2017. While software engineering is my primary professional focus, I also hold a bachelor's degree in Telecommunications Engineering, complemented by an academic foundation in electronics.
 
 Much of my previous work is **proprietary or privately maintained**. Public repositories tell only part of that story. I share selected, high-level project descriptions below without disclosing confidential source code, client records, security-sensitive details, or unverified commercial claims.
 
 My primary engineering stack includes **C#, .NET, ASP.NET Core, ASP.NET MVC, REST APIs, Entity Framework / EF Core, LINQ, SQL Server, Redis, Flutter, and Dart**. I work across backend architecture, database and domain modeling, application integration, and configurable business systems. I enjoy turning complex operational requirements into maintainable, connected software.
 
 **Core technologies:** ![C#](https://img.shields.io/badge/C%23-512BD4?logo=dotnet&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white) ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?logo=dotnet&logoColor=white) ![EF Core](https://img.shields.io/badge/EF_Core-5C2D91) ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?logo=microsoftsqlserver&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
+
+## Education & interdisciplinary background
+
+**Bachelor of Telecommunications Engineering — Saba'a University (2012–2016).** My university education covered telecommunications engineering with a related foundation in electronics. This is my second engineering discipline alongside my primary professional specialization in **software development, C#/.NET, backend systems, and software architecture**.
 
 ## Selected engineering projects | Private & historical work
 

@@ -30,17 +30,9 @@ My primary engineering stack includes **C#, .NET, ASP.NET Core, ASP.NET MVC, RES
 
 The projects below are **selected examples from a wider body of independent engineering work**, not a complete project inventory. Several were developed as proprietary or historical systems; their original source is not publicly available. These descriptions focus on the engineering scope, architecture and workflows without exposing confidential implementation details or making unsupported claims about deployments, market share or certification.
 
-### 🏨 RezMate | Hospitality Booking & Property Management Platform
+### 🏨 RezMate (ريزميت) | Advanced multi-platform hospitality and reservations ecosystem
 
-**RezMate** combines accommodation discovery and reservation workflows with property-management and administration capabilities. The platform includes **C#/.NET backend services** and **Flutter-based interfaces**, covering properties, units, bookings, payments, and related operations.
-
-**Visual portfolio:** [📸 Browse RezMate Client & Portal Screenshots](https://github.com/ameenalqershi/rezmate-images) — 127 interface screenshots (39 RezMate client screens and 88 administration portal screens), without exposing private application source code.
-
-*The public gallery is for demonstration; the RezMate source code remains private.*
-
-### 🏨 Hajzak (حجزك) | Advanced multi-platform hospitality and reservations ecosystem
-
-**An integrated hospitality software ecosystem—not merely a hotel-booking website.** Hajzak was conceived around the complete journey from property discovery to reservation handling and the operational tools required by accommodation providers.
+**An integrated hospitality software ecosystem—not merely a hotel-booking website.** RezMate was conceived around the complete journey from property discovery to reservation handling and the operational tools required by accommodation providers.
 
 The project included interconnected **Android and iOS mobile experiences for customers and hotel/property operators**, alongside **management and administration interfaces** for coordinating accommodation listings, availability-related information, booking processes, and the day-to-day operation of hotels and chalets.
 
@@ -54,6 +46,8 @@ The project included interconnected **Android and iOS mobile experiences for cus
 **Engineering focus:** cross-platform product architecture · hospitality domain modeling · advanced indexing · Redis integration · booking workflows · multi-role applications · management interfaces.
 
 *Selected historical work. No public source release is implied, and this overview does not assert independently benchmarked search performance or current commercial availability.*
+
+**Visual portfolio:** [📸 Browse RezMate Client & Portal Screenshots](https://github.com/ameenalqershi/rezmate-images) — 127 interface screenshots (39 client screens and 88 administration portal screens). The application source remains private.
 
 ### 🛍️ BASAT (بساط) | Dynamic, multi-vendor marketplace and application-management platform
 

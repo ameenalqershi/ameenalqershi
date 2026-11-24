@@ -34,7 +34,7 @@ The projects below are **selected examples from a wider body of independent engi
 
 **RezMate** combines accommodation discovery and reservation workflows with property-management and administration capabilities. The platform includes **C#/.NET backend services** and **Flutter-based interfaces**, covering properties, units, bookings, payments, and related operations.
 
-**Visual portfolio:** [📸 Explore the RezMate Image Gallery](https://ameenalqershi.github.io/rezmate-images/) · [Browse images on GitHub](https://github.com/ameenalqershi/rezmate-images) — public visual previews without access to the private application source code.
+**Visual portfolio:** [📸 Browse RezMate Client & Portal Screenshots](https://github.com/ameenalqershi/rezmate-images) — 127 interface screenshots (39 RezMate client screens and 88 administration portal screens), without exposing private application source code.
 
 *The public gallery is for demonstration; the RezMate source code remains private.*
 

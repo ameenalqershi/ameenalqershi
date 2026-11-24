@@ -30,6 +30,14 @@ My primary engineering stack includes **C#, .NET, ASP.NET Core, ASP.NET MVC, RES
 
 The projects below are **selected examples from a wider body of independent engineering work**, not a complete project inventory. Several were developed as proprietary or historical systems; their original source is not publicly available. These descriptions focus on the engineering scope, architecture and workflows without exposing confidential implementation details or making unsupported claims about deployments, market share or certification.
 
+### 🏨 RezMate | Hospitality Booking & Property Management Platform
+
+**RezMate** combines accommodation discovery and reservation workflows with property-management and administration capabilities. The platform includes **C#/.NET backend services** and **Flutter-based interfaces**, covering properties, units, bookings, payments, and related operations.
+
+**Visual portfolio:** [📸 Explore the RezMate Image Gallery](https://ameenalqershi.github.io/rezmate-images/) · [Browse images on GitHub](https://github.com/ameenalqershi/rezmate-images) — public visual previews without access to the private application source code.
+
+*The public gallery is for demonstration; the RezMate source code remains private.*
+
 ### 🏨 Hajzak (حجزك) | Advanced multi-platform hospitality and reservations ecosystem
 
 **An integrated hospitality software ecosystem—not merely a hotel-booking website.** Hajzak was conceived around the complete journey from property discovery to reservation handling and the operational tools required by accommodation providers.

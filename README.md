@@ -72,6 +72,8 @@ The **product experience and marketplace design were inspired by the breadth and
 
 **Visual portfolio:** [📸 Browse BASAT Client & Courier Screenshots](https://github.com/ameenalqershi/ameenalqershi/tree/main/bisat) — 41 interface screenshots (37 client screens and 4 courier screens), including property maps and sponsored listings. The application source remains private.
 
+**Visual portfolio:** [📸 Browse BASAT Client & Courier Screenshots](https://github.com/ameenalqershi/basat-images) — 37 client and 4 courier interface screenshots. Application source remains private.
+
 ### 📱 Mobile e-wallet (Yemen) | Integrated mobile fintech and device-connected system
 
 **A pioneering Yemen-focused electronic-wallet initiative developed as an interconnected financial-software project, rather than a standalone phone interface.** It combined a **mobile wallet application**, the **supporting system and operational software**, and **integration with related physical devices** involved in the intended end-to-end experience.

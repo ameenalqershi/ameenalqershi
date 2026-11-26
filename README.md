@@ -157,7 +157,7 @@ These projects represent only part of a broader independent engineering history.
 
 ## Publicly inspectable engineering work
 
-### [AMEEN ERP | Accounting/backend engineering (in progress)](https://github.com/ameenalqershi/ameen-erp)
+### [WOW ERP (واو ERP) | Accounting/backend engineering (in progress)](https://github.com/ameenalqershi/wow-erp)
 
 A public **ASP.NET Core / .NET 10 / SQL Server** engineering initiative covering accounting APIs, financial workflows, traceability, idempotency, and automated regression tests.
 
